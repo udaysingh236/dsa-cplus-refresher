@@ -1,2 +1,2 @@
 # dsa-cplus-refresher
-C and C++ refresher for DSA
+Refresher notes on C++, includes programs on structure, pointers, functions, classes and misc operations
